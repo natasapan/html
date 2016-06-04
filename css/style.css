@@ -1,0 +1,45 @@
+ /* 
+p {
+                color:red;
+                font-weight:bold;
+                font-size:100px
+            }
+                 
+     */
+
+
+div {
+    
+border: 1px solid black;
+background: blue;
+color:white;
+width:75%;
+border-radius: 25px;
+margin:40px;
+    padding: 20px;
+}
+
+div ul { 
+list-style-type: none;
+    list-style-type:square;
+
+}
+
+div p {
+    color: mediumvioletred;
+}
+
+#hovers {
+width:200px;
+height:200px;
+border:1px solid black;       
+}
+
+#hovers h2 {
+    text-align: center;
+}
+#hovers:hover {
+    
+    background-color: black;
+    color:azure;
+}
